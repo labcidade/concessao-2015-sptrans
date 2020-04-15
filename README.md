@@ -22,7 +22,8 @@ Dados comparativos sobre a rede atual de ônibus municipais da SPTrans e a rede 
 Mapeamento realizado em duas etapas. Primeiro, a partir de shapefiles da rede atual disponibilizado pela SPTrans e da rede proposta disponibilizado pela Secretaria Municipal de Transportes, foi produzido um arquivo georreferenciado por aderência das geometrias dessas duas fontes. Cada segmento desse novo shapefile conteria informações sobre as linhas atuais e as linhas propostas. Em seguida, a partir de dados sobre frequência dos ônibus e capacidade dos veículos disponibilizadas pela Secretaria Municipal de Transportes, foi calculada a oferta de lugares prevista para cada linha no período de pico. Esses dados foram agregados por segmento do shapefile de aderência, gerando os dados disponibilizados.
 
 ## Finalidade
-Post no blog do LabCidade (http://www.labcidade.fau.usp.br/nova-rede-de-onibus-quais-os-impactos-no-seu-bairro/)
+Publicação de post no blog do LabCidade:
+- [Nova rede de ônibus: quais os impactos no seu bairro?](http://www.labcidade.fau.usp.br/nova-rede-de-onibus-quais-os-impactos-no-seu-bairro/)
 
 ## Dados externos
 - Secretaria Municipal de Transportes
